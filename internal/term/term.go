@@ -33,5 +33,6 @@ func Restore() error {
 	if err != nil {
 		return err
 	}
+
 	return termios.Tcsetattr(uintptr(saveTermiosFD), termios.TCSANOW, &o)
 }
