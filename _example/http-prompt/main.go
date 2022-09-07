@@ -180,7 +180,6 @@ func main() {
 		header: http.Header{},
 		client: &http.Client{},
 	}
-
 	p := prompt.New(
 		executor,
 		completer,
