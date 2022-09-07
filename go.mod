@@ -1,4 +1,4 @@
-module github.com/c-bata/go-prompt
+module github.com/B9O2/prompt
 
 go 1.14
 
