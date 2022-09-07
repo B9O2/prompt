@@ -4,7 +4,7 @@ import (
 	"os"
 	"os/exec"
 
-	prompt "github.com/c-bata/go-prompt"
+	prompt "github.com/B9O2/prompt"
 )
 
 func executor(t string) {

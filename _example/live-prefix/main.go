@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	prompt "github.com/c-bata/go-prompt"
+	prompt "github.com/B9O2/prompt"
 )
 
 var LivePrefixState struct {
